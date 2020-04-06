@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "webpack serve --config webpack.config.js --entry index.js"
+    "dev": "webpack serve --config webpack.config.js"
   },
   "keywords": [],
   "author": "",
