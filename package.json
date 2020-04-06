@@ -1,0 +1,18 @@
+{
+  "name": "webpack-cli-serve-entry",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack serve --config webpack.config.js --entry index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@webpack-cli/serve": "^1.0.1-alpha.5",
+    "html-webpack-plugin": "^4.0.0-beta.14",
+    "webpack": "^5.0.0-beta.13",
+    "webpack-cli": "^4.0.0-beta.8"
+  }
+}
